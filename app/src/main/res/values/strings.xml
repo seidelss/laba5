@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="popup_menu_item_1">Popup menu item 1</string>
+    <string name="popup_menu_item_2">Popup menu item 2</string>
+    <string name="popup_menu_item_3">Popup menu item 3</string>
+    <string name="popup_menu_item_4">Popup menu item 4</string>
+    <string name="popup_menu_item_5">Popup menu item 5</string>
+    <string name="popup_menu_item_6">Popup menu item 6</string>
+    <string name="button">НАЖМИТЕ НА МЕНЯ</string>
+    <dimen name="small">10sp</dimen>
+    <dimen name="medium">20sp</dimen>
+    <dimen name="large">30sp</dimen>
+</resources>

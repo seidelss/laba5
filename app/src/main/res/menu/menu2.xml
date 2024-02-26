@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/red"
+    android:icon="@android:drawable/presence_audio_busy"
+    android:iconTintMode="src_in"
+    android:iconTint="#F44336"
+    android:title="Red"/>
+
+    <item
+        android:id="@+id/yellow"
+        android:icon="@android:drawable/presence_audio_away"
+        android:iconTintMode="src_in"
+        android:iconTint="#FFEB3B"
+        android:title="Yellow"/>
+
+    <item
+        android:id="@+id/green"
+        android:icon="@android:drawable/presence_audio_online"
+        android:iconTintMode="src_in"
+        android:iconTint="#4CAF50"
+        android:title="Green"/>
+</menu>
